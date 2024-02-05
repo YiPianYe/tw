@@ -28,8 +28,6 @@
 - title: "Pages"
   url: "Pages"
   links:
-    - title: Pages
-      url: "pages"
     - title: "About"
       url: "about"
     - title: "docs"
