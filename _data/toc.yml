@@ -14,3 +14,18 @@
       url: "docs/extras/example-quiz"
     - title: Tags Page
       url: "tags"
+- title: Pages
+  url: Pages
+  links:
+    - title: "Bookmark"
+      url: "bookmark"
+    - title: "About"
+      url: "about"
+    - title: "Contact"
+      url: "contact"
+      - title: "Portfolio"
+      url: "portfolio"
+    - title: "Services"
+      url: "services"
+    - title: "Guestbook"
+      url: "guestbook"
