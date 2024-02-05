@@ -1,8 +1,8 @@
 - title: Static
-  url: docs
+  url: post
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "css"
+      url: "css"
       children:
         - title: Features
           url: "docs/getting-started#getting-started"
