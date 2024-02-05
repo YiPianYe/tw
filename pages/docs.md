@@ -1,7 +1,7 @@
 ---
 layout: page
-title: static
-permalink: /static/
+title: docs
+permalink: /docs/
 ---
 
 Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
