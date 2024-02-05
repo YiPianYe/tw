@@ -1,6 +1,6 @@
 ---
 layout: page
-title: static
+title: Home
 permalink: /
 ---
 
