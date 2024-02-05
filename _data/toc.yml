@@ -23,7 +23,7 @@
       url: "about"
     - title: "Contact"
       url: "contact"
-      - title: "Portfolio"
+    - title: "Portfolio"
       url: "portfolio"
     - title: "Services"
       url: "services"
