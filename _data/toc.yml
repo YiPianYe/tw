@@ -4,8 +4,6 @@
     - title: "css"
       url: "css"
     - title: "css"
-      url: "post/css"
-    - title: "css"
       url: "docs/css"
       children:
         - title: Features
