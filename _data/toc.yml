@@ -10,10 +10,10 @@
 - title: "Post"
   url: "post"
   links:
-    - title: Post
-      url: "post"
     - title: "News"
       url: "news"
+    - title: Post
+      url: "post"
     - title: "Docs"
       url: "docs"
     - title: Archive
