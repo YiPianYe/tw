@@ -1,4 +1,4 @@
-- title: Static
+- title: Home
   url: docs
   links:
     - title: "css"
@@ -14,28 +14,22 @@
       url: "post"
     - title: "News"
       url: "news"
+    - title: "Docs"
+      url: "docs"
     - title: Archive
       url: "archive"
+    - title: "Tags"
+      url: "tags"
 - title: "Pages"
   url: "Pages"
   links:
+    - title: "Bookmark"
+      url: "bookmark"
     - title: "About"
       url: "about"
-    - title: "docs"
-      url: "docs"
-    - title: "post"
-      url: "post"
-    - title: "News"
-      url: "news"
-    - title: "archive"
-      url: "archive"
-    - title: "tags"
-      url: "tags"
-    - title: "bookmark"
-      url: "bookmark"
     - title: "Contact"
       url: "contact"
-    - title: "Portfolio"
+      - title: "Portfolio"
       url: "portfolio"
     - title: "Services"
       url: "services"
