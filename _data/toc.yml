@@ -3,15 +3,17 @@
   links:
     - title: "css"
       url: "css"
-    - title: "css"
-      url: "docs/css"
+    - title: "cdn"
+      url: "cdn"
+    - title: "js"
+      url: "js"
 - title: "Extras"
   url: "docs/extras"
   links:
     - title: Quizzes
       url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
+     - title: "Getting Started"
+      url: "docs/getting-started"
 - title: "Pages"
   url: "Pages"
   links:
