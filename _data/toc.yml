@@ -12,11 +12,11 @@
   links:
     - title: "News"
       url: "news"
-    - title: Post
+    - title: "Post"
       url: "post"
     - title: "Docs"
       url: "docs"
-    - title: Archive
+    - title: "Archive"
       url: "archive"
     - title: "Tags"
       url: "tags"
