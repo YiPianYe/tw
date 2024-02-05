@@ -21,6 +21,11 @@
       url: "docs/extras/example-quiz"
     - title: Tags Page
       url: "tags"
+- title: "Extras"
+  url: "docs/extras"
+  links:
+    - title: Pages
+      url: "pages"
 - title: "About"
   url: "about"
 - title: "docs"
