@@ -5,17 +5,6 @@
       url: "css"
     - title: "css"
       url: "docs/css"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
 - title: "Extras"
   url: "docs/extras"
   links:
