@@ -7,13 +7,15 @@
       url: "cdn"
     - title: "js"
       url: "js"
-- title: "Extras"
-  url: "docs/extras"
+- title: "Post"
+  url: "post"
   links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
+    - title: Post
+      url: "post"
+    - title: "News"
+      url: "news"
+    - title: Archive
+      url: "archive"
 - title: "Pages"
   url: "Pages"
   links:
