@@ -33,3 +33,5 @@
       url: "bookmark"
     - title: "Contact"
       url: "contact"
+    - title: "Portfolio"
+      url: "portfolio"
