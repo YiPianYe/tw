@@ -15,7 +15,7 @@
     - title: Tags Page
       url: "tags"
 - title: Pages
-  url: Pages
+  url: pages
   links:
     - title: "Bookmark"
       url: "bookmark"
