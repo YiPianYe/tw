@@ -1,41 +1,23 @@
-- title: Static
+- title: Documentation
   url: docs
   links:
-    - title: "css"
-      url: "css"
-    - title: "cdn"
-      url: "cdn"
-    - title: "js"
-      url: "js"
+    - title: "Getting Started"
+      url: "docs/getting-started"
+      children:
+        - title: Features
+          url: "docs/getting-started#getting-started"
+        - title: Development
+          url: "docs/getting-started#development"
+        - title: Customization
+          url: "docs/getting-started#customization"
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
 - title: "Extras"
   url: "docs/extras"
   links:
     - title: Quizzes
       url: "docs/extras/example-quiz"
-     - title: "Getting Started"
-      url: "docs/getting-started"
-- title: "Pages"
-  url: "Pages"
-  links:
-    - title: "About"
-      url: "about"
-    - title: "docs"
-      url: "docs"
-    - title: "post"
-      url: "post"
-    - title: "News"
-      url: "news"
-    - title: "archive"
-      url: "archive"
-    - title: "tags"
+    - title: Tags Page
       url: "tags"
-    - title: "bookmark"
-      url: "bookmark"
-    - title: "Contact"
-      url: "contact"
-    - title: "Portfolio"
-      url: "portfolio"
-    - title: "Services"
-      url: "services"
-    - title: "Guestbook"
-      url: "guestbook"
