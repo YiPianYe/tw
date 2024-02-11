@@ -1,8 +1,8 @@
 :root {
-a:all{ color:#00F}/* 默认超链接字体颜色 蓝色 */
-a:hover{ color:#F00}/* 鼠标悬停超链接字体色彩 血色 */
-a:active{ color:#060}/* 鼠标点击未合并时超链接字体颜色 绿色 */
-a:visited{ color:#CCC}/* 会面过的超链接字体色调 灰彩色 */
+a:link{ color:#421eff}/* 默认超链接字体颜色 蓝色 */
+a:hover{ color:#8d1eff}/* 鼠标悬停超链接字体色彩 血色 */
+a:active{ color:#d81eff}/* 鼠标点击未合并时超链接字体颜色 绿色 */
+a:visited{ color:#005ab2}/* 会面过的超链接字体色调 灰彩色 */
 }
 
 [class*=language-] {
