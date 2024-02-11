@@ -1,3 +1,22 @@
+:root {
+  /* 设置超链接的默认颜色 */
+a {
+color: blue;
+}
+/* 设置已访问过的超链接颜色 */
+a:visited {
+color: purple;
+}
+/* 设置鼠标悬停在超链接上时的颜色 */
+a:hover {
+color: red;
+}
+/* 设置超链接在被点击时的颜色 */
+a:active {
+color: orange;
+}
+}
+
 [class*=language-] {
   border-radius: 10px !important;
 }
