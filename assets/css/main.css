@@ -1,21 +1,10 @@
+
+
 :root {
-  /* 设置超链接的默认颜色 */
-a {
-color: blue;
-}
-/* 设置已访问过的超链接颜色 */
-a:visited {
-color: purple;
-}
-/* 设置鼠标悬停在超链接上时的颜色 */
-a:hover {
-color: red;
-}
-/* 设置超链接在被点击时的颜色 */
-a:active {
-color: orange;
-}
-  
+a:link{ color:#00F}/* 默认超链接字体颜色 蓝色 */
+a:hover{ color:#F00}/* 鼠标悬停超链接字体色彩 血色 */
+a:active{ color:#060}/* 鼠标点击未合并时超链接字体颜色 绿色 */
+a:visited{ color:#CCC}/* 会面过的超链接字体色调 灰彩色 */
 }
 
 [class*=language-] {
