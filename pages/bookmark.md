@@ -31,13 +31,13 @@ permalink: /bookmark/
 
 [Dns.ong](https://dns.ong/) Dns ong DNS查询
 
-### md
+### MD
 
 [菜鸟教程](https://www.runoob.com/markdown) md 菜鸟教程
 
-### ip
+### IP
 
- [IP](https://www.ipify.org/) 公共 IP 地址 API 
+[IP](https://www.ipify.org/) 公共 IP 地址 API 
  
 ### 矢量图 svg 免扣
  
