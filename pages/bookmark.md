@@ -3,7 +3,7 @@ title: Bookmark
 permalink: /bookmark/
 ---
 
-## Bookmark
+## Bookmark ✨ℹ️🌐📢⚕️
 
 ### Domain
 
