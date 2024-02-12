@@ -2,11 +2,11 @@
   url: docs
   links:
     - title: "css"
-      url: "css"
+      url: "docs/css"
     - title: "cdn"
-      url: "cdn"
+      url: "docs/cdn"
     - title: "js"
-      url: "js"
+      url: "docs/js"
 - title: Post
   url: post
   links:
