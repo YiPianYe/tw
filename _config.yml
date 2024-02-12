@@ -52,8 +52,8 @@ logo: assets/img/tw-jekyll.png
 github_branch: main
 
 # If not set, badge color (background) defaults to violet
-# badge_color: "#2bcf98" true
-badge_rounded: true
+# badge_color: "#8a2be2" true
+badge_rounded: #8a2be2
 
 # Build settings
 markdown: kramdown
@@ -61,10 +61,10 @@ markdown: kramdown
 # If you add tags to pages, define this variable to link them to some external search
 # If you want to link to tags locally on the site, leave this commented out
 # tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
-tag_color: primary # danger, success, warning, primary, info, secondary
+tag_color: info # danger, success, warning, primary, info, secondary
 
-accentColor: red # purple, green, etc.
-themeColor: red # purple, green, blue, orange, purple, grey
+accentColor: purple # purple, green, red, etc.
+themeColor: blue # purple, green, blue, orange, purple, grey,red
 fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
