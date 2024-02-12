@@ -1,10 +1,7 @@
 ---
 title:  "css"
-description: css
 permalink: /css
 categories: css
-tags:
- - css
 ---
 
 # Extras
