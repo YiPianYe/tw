@@ -1,6 +1,5 @@
 ---
 title:  "cdn"
-permalink: cdn/
 categories: cdn
 ---
 
