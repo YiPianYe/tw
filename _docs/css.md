@@ -1,6 +1,5 @@
 ---
 title:  "css"
-permalink: css/
 categories: css
 ---
 
