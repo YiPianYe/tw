@@ -37,12 +37,12 @@ keywords: "documentation theme"
 add_permalinks: true
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-support: https://github.com/vsoch/tw-jekyll/issues
-repo: https://github.com/vsoch/tw-jekyll
-github_user: vsoch
-github_repo: tw-jekyll
+twitter: username
+linkedin: username
+support: https://github.com/username
+repo: https://github.com/username
+github_user: user
+github_repo: name
 # discord: https://community.discord.com
 
 # If you have a logo, put here to include in meta tags
@@ -53,7 +53,7 @@ github_branch: main
 
 # If not set, badge color (background) defaults to violet
 # badge_color: "#8a2be2" true
-badge_rounded: #8a2be2
+badge_rounded: #e8f6f3
 
 # Build settings
 markdown: kramdown
