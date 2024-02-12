@@ -1,8 +1,16 @@
-:root {
+ /* :root {
 a:link {color: #8000ff}  /* 设置超链接的默认颜色 */
 a:visited {color: #8000ff} /* 设置已访问过的超链接颜色 */
 a:hover {color: #8000ff}  /* 设置鼠标悬停在超链接上时的颜色 */
 a:active {color: #8000ff} /* 设置超链接在被点击时的颜色 */
+background-color: #e8f6f3; //淡蓝色背景
+p:color: #333; //黑色文字
+}  */
+:root {
+a:link    {color:#8000ff;}
+a:visited {color:#8000ff;}
+a:hover   {color:#8000ff;}
+a:active  {color:#8000ff;}
 background-color: #e8f6f3; //淡蓝色背景
 p:color: #333; //黑色文字
 }
