@@ -44,13 +44,26 @@ permalink: /bookmark/
 [阿里巴巴矢量图标库](https://www.iconfont.cn/) 阿里巴巴矢量图标库，中国 矢量图标库 下载 在线存储 格式转换 阿里巴巴体验团队
 
 [Font Awesome 中文](https://fontawesome.com.cn/) 中文字体图标,webfont,矢量图标,css框架,网页图标,svg图标,icon
+
 [Font Awesome 英文](https://fontawesome.com/) Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 
 [菜鸟教程](https://www.aigei.com/) 爱给网,音效,配乐,3d模型,游戏素材，**SVG**
+
+### Favicon
+[Favicon](https://favicon.io/) Favicon 网站图标生成器
+
+### emoji
+
+[emojiall](https://www.emojiall.com/) emoji表情
+
+### Logo
+
 [菜鸟教程](https://www.runoob.com/markdown) md 菜鸟教程
+
 [菜鸟教程](https://www.runoob.com/markdown) md 菜鸟教程
+
 [菜鸟教程](https://www.runoob.com/markdown) md 菜鸟教程
+
 [菜鸟教程](https://www.runoob.com/markdown) md 菜鸟教程
-[菜鸟教程](https://www.runoob.com/markdown) md 菜鸟教程
-[菜鸟教程](https://www.runoob.com/markdown) md 菜鸟教程
+
 [菜鸟教程](https://www.runoob.com/markdown) md 菜鸟教程
