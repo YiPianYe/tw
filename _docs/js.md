@@ -1,6 +1,5 @@
 ---
 title:  "js"
-permalink: js/
 categories: js
 ---
 
