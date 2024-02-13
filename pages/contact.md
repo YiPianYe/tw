@@ -7,31 +7,22 @@ permalink: /contact/
 
 ```mermaid
 graph TD
-A{条件a} 
-    B--> |a=1| C[邮箱workgroupro@gmail.com]
-    B--> |a=2| D(电话+13133896888)
-    B--> |a=3| E[微信WorkGrouPro]
-    F[竖向流程图]
+A{联系方式} 
+    A--> |邮箱| B[不一定回复]
+    A--> |电话| C(短信可以看到)
+    A--> |微信| D[阐明主要事情]
 ```
 
 ## 联系方式
 
 ```备注
 
-邮箱 workgroupro@gmail.com
+Email workgroupro@gmail.com
 
-电话不接，短信回复 +13133896888
+Google Voice +13133896888
 
-微信，秒通过，来源说明微信 WorkGrouPro
+We Chat WorkGrouPro
 
 ```
 
-```mermaid
-graph TD
-A[方形] --> B(圆角)
-    B --> C{条件a}
-    C --> |a=1| D[结果1]
-    C --> |a=2| E[结果2]
-    F[竖向流程图]
-```
 
