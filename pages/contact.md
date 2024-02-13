@@ -8,7 +8,19 @@ permalink: /contact/
 ```mermaid
 graph TD
 A{我}
-    A--> |邮箱| B[结果1]
-    A--> |电话| C(圆角)
-    A--> |微信| D[结果3]
+    A--> |邮箱| B[workgroupro@gmail.com]
+    A--> |电话| C(+13133896888)
+    A--> |微信| D[WorkGrouPro]
+```
+
+## 联系方式
+
+```备注
+
+youxian邮箱
+
+电话不接，短信回复
+
+微信，秒通过，来源说明微信
+
 ```
