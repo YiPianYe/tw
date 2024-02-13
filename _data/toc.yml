@@ -16,10 +16,10 @@
       url: "post"
     - title: "Docs"
       url: "docs"
-    - title: "Archive"
-      url: "archive"
     - title: "Tags"
       url: "tags"
+    - title: "Archive"
+      url: "archive"
 - title: Pages
   url: pages
   links:
