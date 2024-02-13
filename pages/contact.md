@@ -8,9 +8,9 @@ permalink: /contact/
 ```mermaid
 graph TD
 A{条件a} 
-    B--> |a1| C[邮箱workgroupro@gmail.com]
-    B--> |a2| D(电话+13133896888)
-    B--> |a3| E[微信WorkGrouPro]
+    B--> |a=1| C[邮箱workgroupro@gmail.com]
+    B--> |a=2| D(电话+13133896888)
+    B--> |a=3| E[微信WorkGrouPro]
     F[竖向流程图]
 ```
 
