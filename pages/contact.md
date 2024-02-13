@@ -8,8 +8,8 @@ permalink: /contact/
 ```mermaid
 graph TD
 A{条件a}
-    B --> |a=1| D[结果1]
-    B --> |a=2| E(圆角)
-    B --> |a=3| F[结果3]
-    C[竖向流程图]
+    A--> |a=1| C[结果1]
+    A--> |a=2| D(圆角)
+    A--> |a=3| E[结果3]
+    B[竖向流程图]
 ```
