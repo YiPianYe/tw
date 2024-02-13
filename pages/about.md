@@ -3,15 +3,15 @@ title: About
 permalink: /about/
 ---
 
-This is a [starter template](https://vsoch.github.com/tw-jekyll/) for a Tailwind jekyll theme, based
-on [these docs](https://github.com/superfly/docs) that are based on [Tailwind css](https://tailwindcss.com/docs/installation),
-however everything has been modified to work on GitHub pages (using Jekyll). If you don't need
-native deployment on GitHub pages, then please consider checking out Tailwind. 
-The original [Apache License](https://github.com/vsoch/tw-jekyll/tree/main/LICENSE) is included.
+### 关于
 
-See the [respository]({{ site.repo }}) for more details.
+> **80后，上有老下有下，工地搬砖，勉强糊口！**
 
-## Support
+> **喜爱，收藏，投资? Domains**
 
-If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}).
+> 本站启用 WorkGroup.World
+
+> **工作 群组 世界**
+
+> 只是一个私用记录导航网站
 
